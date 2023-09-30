@@ -24,9 +24,12 @@ s = g.read().splitlines()
 os.system("clear")
 print(Colorate.Vertical(Colors.blue_to_cyan, Center.XCenter("""
 
-
-                                                                                                                           
-                                                                                  
+             ██████╗  █████╗ ██╗███████╗ █████╗ 
+             ██╔══██╗██╔══██╗██║██╔════╝██╔══██╗
+             ██████╔╝███████║██║█████╗  ███████║
+             ██╔══██╗██╔══██║██║██╔══╝  ██╔══██║
+             ██████╔╝██║  ██║██║██║     ██║  ██║
+                                                                                                                                                                                                      
                       Made By : BAIFA
                    Instagram | baifa17_
     
